@@ -47,5 +47,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 2. git status
 3. git add .
 4. git commit -m "zhushi "
+> git config --global user.email "你的邮箱"
+> git config --global user.name "你的名字"
 5. 在代码托管平台新建远程仓库
 6. git push 
